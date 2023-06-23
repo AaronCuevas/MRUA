@@ -1,3 +1,4 @@
+Cuevas López Aarón Gahel 2CM6
 # MRUA
 Aplicación que calcula la velocidad promedio y aceleración de un problema dado por el usuario
 
