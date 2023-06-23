@@ -33,6 +33,18 @@ Graficando el problema se muestra asi:
 
 La solucion muestra que el carro va desacelerando a -1.90 m/s^2 con una velocidad promedio de 18.07 m/s
 
+# Problema ejemplo
+
+Mostrando otro ejemplo diremos que el carro arranca del descanso 0 m/s, a una distancia de 100 m y con un lapso de tiempo de 14 s
+
+![image](https://github.com/AaronCuevas/MRUA/assets/137372569/910e64d3-3648-4bb7-be15-cb93866d629f)
+
+
+
+![image](https://github.com/AaronCuevas/MRUA/assets/137372569/c1bce8ad-4de6-446a-914d-bcf8618bbced)
+
+Esta segunda solucion muestra que el carro va acelerando a 1.02 m/s^2 con una velocidad promedio de 7.14 m/s
+
 # Ejecucion del programa 
 
 * Se necesita tener instalado Python 3.9.13 64-bit ya que si se utiliza en otras versiones puede mandar errores
